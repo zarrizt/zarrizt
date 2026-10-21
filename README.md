@@ -1,3 +1,61 @@
+# Zarrizt | Learn. Build. Understand.
+
+**Self-taught developer · Python · Free Software · Human-AI Collaboration**
+
+I'm not a formally trained software engineer.
+
+I'm an amateur in the most literal sense of the word: someone who loves a field enough to get lost in it, learn its intricacies, make mistakes, challenge assumptions, and keep going.
+
+I'm particularly interested in what becomes possible when artificial intelligence extends our technical capabilities without replacing our judgment.
+
+Because AI's ability to produce working code does not automatically make that code reliable. And understanding *why* something works remains, to me, at least as important as getting it to work.
+
+## What I'm Building
+
+### DataVaultAI / Scrollpendium
+
+*Scrollpendium is the project's preferred provisional name, pending final clearance.*
+
+A local-first document archiving and research tool designed to preserve sources, organize knowledge, and make information accessible without depending on cloud services or mandatory AI.
+
+It is also my practical introduction to Python, SQLite, Git, software architecture, testing, and the broader discipline of building maintainable software.
+
+Much of the development happens through human-AI collaboration, with explicit human control over architectural decisions, project direction, and acceptance criteria.
+
+**Status:** Active development. Source repository currently private. Public release planned under AGPLv3.
+
+### Exocortex
+
+An independent research initiative exploring extended cognition, human-machine collaboration, and the possibility of developing symbiotic cognitive systems.
+
+The goal isn't to replace human judgment with artificial intelligence.
+
+It's to investigate how increasingly capable tools might expand our ability to think, learn, understand, and act while preserving human autonomy.
+
+I'm not looking for a miraculous technological leap. I'm interested in gradual, modular, testable co-evolution.
+
+## My Approach
+
+Understand the problem. Form hypotheses. Choose a strategy. Build. Test. Challenge the results.
+
+And start over when the evidence tells us we were wrong.
+
+I treat AI as a technical and critical collaborator, not as an authority to which I surrender my decisions.
+
+Software must meet the same standards of reliability regardless of whether its code was written manually or generated with assistance.
+
+## Free Software & Voluntary Support
+
+I intend to support these projects through a **Pay What You Want** philosophy.
+
+Access to freely published software and knowledge shouldn't depend on someone's financial means.
+
+But freedom of access doesn't mean the time, education, research, and labor behind those tools have no value.
+
+Voluntary contributions may eventually help sustain my independent development work, continued education, and research, including DataVaultAI and Exocortex.
+
+**Curiosity opens doors. Methodology helps us discover what's actually behind them.**
+____________
 # Zarrizt | Apprendre, construire, comprendre.
 
 **Développeur autodidacte · Python · Logiciels libres · Collaboration humain-IA**
