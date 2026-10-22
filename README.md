@@ -55,7 +55,7 @@ But freedom of access doesn't mean the time, education, research, and labor behi
 Voluntary contributions may eventually help sustain my independent development work, continued education, and research, including DataVaultAI and Exocortex.
 
 **Curiosity opens doors. Methodology helps us discover what's actually behind them.**
-____________
+---
 # Zarrizt | Apprendre, construire, comprendre.
 
 **Développeur autodidacte · Python · Logiciels libres · Collaboration humain-IA**
