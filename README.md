@@ -12,7 +12,7 @@ Because AI's ability to produce working code does not automatically make that co
 
 ## What I'm Building
 
-### DataVaultAI / Scrollpendium
+### [DataVaultAI / Scrollpendium](https://github.com/zarrizt/datavaultai-showcase)
 
 *Scrollpendium is the project's preferred provisional name, pending final clearance.*
 
