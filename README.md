@@ -68,7 +68,7 @@ Parce qu'une IA capable de produire du code ne rend pas ce code automatiquement 
 
 ## Ce que je construis
 
-### DataVaultAI / Scrollpendium
+### [DataVaultAI / Scrollpendium](https://github.com/zarrizt/datavaultai-showcase)
 
 *Scrollpendium est le nom envisagé pour le projet, encore provisoire.*
 
